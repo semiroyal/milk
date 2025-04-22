@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/12 Step Resources/New Page?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New Page?"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/12 Step Resources/New Page?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for New Page?"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/12 Step Resources/New Page?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from New Page?"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/12 Step Resources/New Page?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of New Page?"
             }
           }
         ]
@@ -171,15 +171,16 @@
   },
   "active": "2ae3019e26b13bd1",
   "lastOpenFiles": [
+    "source/content/12 Step Resources/index.md",
+    "source/content/12 Step Resources/New Page?.md",
+    "source/content/12 Step Resources/Some note.md",
+    "source/content/index.md",
     "source/docs/features/backlinks.md",
     "source/docs/advanced/paths.md",
     "source/docs/advanced/making plugins.md",
     "source/docs/advanced/index.md",
     "source/docs/advanced/creating components.md",
     "source/docs/advanced/architecture.md",
-    "source/content/category-folder/index.md",
-    "source/content/category-folder/Some note.md",
-    "source/content/index.md",
     "source/docs/upgrading.md",
     "source/docs/index.md",
     "source/README.md",
