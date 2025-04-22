@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/category-folder/Some note.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some note"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/category-folder/Some note.md",
+                "file": "source/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Some note"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/category-folder/Some note.md",
+                "file": "source/content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Some note"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/category-folder/Some note.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Some note"
+              "title": "Outline of index"
             }
           }
         ]
@@ -171,9 +171,18 @@
   },
   "active": "2ae3019e26b13bd1",
   "lastOpenFiles": [
+    "source/docs/features/backlinks.md",
+    "source/docs/advanced/paths.md",
+    "source/docs/advanced/making plugins.md",
+    "source/docs/advanced/index.md",
+    "source/docs/advanced/creating components.md",
+    "source/docs/advanced/architecture.md",
     "source/content/category-folder/index.md",
+    "source/content/category-folder/Some note.md",
+    "source/content/index.md",
+    "source/docs/upgrading.md",
+    "source/docs/index.md",
     "source/README.md",
-    "README.md",
-    "source/content/category-folder/Some note.md"
+    "README.md"
   ]
 }
