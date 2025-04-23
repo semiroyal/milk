@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Meeting Details/Zoom.md",
+                "file": "source/content/Resources/New Page?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zoom"
+              "title": "New Page?"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Meeting Details/Zoom.md",
+                "file": "source/content/Resources/New Page?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Zoom"
+              "title": "Backlinks for New Page?"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Meeting Details/Zoom.md",
+                "file": "source/content/Resources/New Page?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Zoom"
+              "title": "Outgoing links from New Page?"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Meeting Details/Zoom.md",
+                "file": "source/content/Resources/New Page?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Zoom"
+              "title": "Outline of New Page?"
             }
           }
         ]
@@ -171,10 +171,10 @@
   },
   "active": "19206b5c14b3deeb",
   "lastOpenFiles": [
-    "source/content/index.md",
     "source/content/Meeting Details/Zoom.md",
-    "source/content/12 Step Resources/New Page?.md",
-    "source/content/12 Step Resources/index.md",
+    "source/content/index.md",
+    "source/content/Resources/New Page?.md",
+    "source/content/Resources/index.md",
     "source/content/Untitled.md",
     "source/content/Meeting Details",
     "source/content/12 Step Resources/Some note.md",
