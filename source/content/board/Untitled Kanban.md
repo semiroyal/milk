@@ -6,6 +6,12 @@ kanban-plugin: board
 
 ## Inbox
 
+- [ ] Finances
+- [ ] Physical
+- [ ] Mental
+- [ ] Film
+- [ ] Book
+- [ ] 3D Print
 
 
 ## Step 0.5
